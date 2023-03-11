@@ -31,7 +31,7 @@ Before setting up the pipeline, make sure you have the following installed and c
 
 - [Jenkins](https://www.jenkins.io/) (with necessary plugins like Git, Pipeline, etc.)
 - Git (for version control)
-- Docker (if using containerized deployments)
+- Docker (if using containerized deployments.)
 - Java (Jenkins requires Java to run)
 
 ---
